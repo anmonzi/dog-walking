@@ -30,3 +30,4 @@ const applicationHTML = `
 
 mainContainer.innerHTML = applicationHTML
 
+//got it working!
